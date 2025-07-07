@@ -82,16 +82,13 @@ flutter pub get
 flutter run
 Assure-toi d’avoir un émulateur ou appareil connecté
 
-Dépendances principales
--------------------------------------------------
-Package	        |  Rôle
--------------------------------------------------
-provider        |	 Gestion d’état global
--------------------------------------------------
-http	          |  Requêtes HTTP pour l’API REST
--------------------------------------------------
-cupertino_icons	|  Icônes iOS optionnelles
--------------------------------------------------
+## Dépendances principales
+
+| Package	        |  Rôle                           |
+|-----------------|---------------------------------|
+| `dartprovider`  |	 `Gestion d’état global`        |
+| `http`          |  `Requêtes HTTP pour l’API REST`|
+|`cupertino_icons`|  `Icônes iOS optionnelles`      |
 
 Auteur
 Réalisé par Yacine Dehmous
