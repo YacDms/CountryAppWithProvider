@@ -58,18 +58,22 @@ final quizProvider = Provider.of<QuizProvider>(context);
 if (quizProvider.isLoading) {
   return CircularProgressIndicator();
 }
+```
 Chaque bouton d’option appelle quizProvider.checkAnswer(...), ce qui met à jour l’état et la vue instantanément.
 
-Appel API (dans quiz_provider.dart)
+## Appel API (dans quiz_provider.dart)
+
+```dart
 final response = await http.get(Uri.parse('https://restcountries.com/v3.1/all'));
 
 _countries = data
   .where((c) => ...)
   .map((c) => Country(name: ..., capital: ...))
   .toList();
+```
 Seuls les pays avec une capitale valide sont ajoutés.
 
-Installation & Lancement
+## Installation & Lancement
 Clone le repo :
 
 git clone https://github.com/YacDms/CountryAppWithProvider.git
