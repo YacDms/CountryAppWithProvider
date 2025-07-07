@@ -91,7 +91,7 @@ Assure-toi d’avoir un émulateur ou appareil connecté
 | `http`          |  `Requêtes HTTP pour l’API REST`|
 |`cupertino_icons`|  `Icônes iOS optionnelles`      |
 
-Auteur
-Réalisé par Yacine Dehmous
-AEC Programmation Orientée Objet et Technologies Web – Cégep ROSEMONT
-Passionnée de tech, d’IA et d’apprentissage
+## Auteur
+| `Réalisé par` | `Yacine Dehmous` |
+| `Programme d'études` | `AEC Programmation Orientée Objet et Technologies Web – Cégep ROSEMONT`|
+| `Passionnée de` | `.NET, d’IA et d’apprentissage`|
