@@ -92,6 +92,7 @@ Assure-toi d’avoir un émulateur ou appareil connecté
 |`cupertino_icons`|  `Icônes iOS optionnelles`      |
 
 ## Auteur
-| `Réalisé par` | `Yacine Dehmous` |
+| Réalisé par | Yacine Dehmous |
+|-------------|----------------|
 | `Programme d'études` | `AEC Programmation Orientée Objet et Technologies Web – Cégep ROSEMONT`|
 | `Passionnée de` | `.NET, d’IA et d’apprentissage`|
