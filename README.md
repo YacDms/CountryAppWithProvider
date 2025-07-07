@@ -75,11 +75,12 @@ Seuls les pays avec une capitale valide sont ajoutés.
 
 ## Installation & Lancement
 Clone le repo :
-
+```batch
 git clone https://github.com/YacDms/CountryAppWithProvider.git
 cd CountryAppWithProvider
 flutter pub get
 flutter run
+```
 Assure-toi d’avoir un émulateur ou appareil connecté
 
 ## Dépendances principales
